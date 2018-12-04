@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth_Send</string>
+    <string name="pair_device">Pair bluetooth with other device</string>
+    <string name="send_success">Sent</string>
+    <string name="no_device">No Device Available</string>
+    <string name="title_bluetooth_devices">Select a device to pair</string>
+    <string name="connect_success">Connected</string>
+    <string name="apk_error_msg">Kindly install Mantra Application to proceed sale.</string>
+    <string name="not_connected">Device not Connected</string>
+
+</resources>
